@@ -22,8 +22,8 @@ app.use(bodyParser.urlencoded({extended:false}));
 
 
 var messages = [
-    {name: 'Tim', message: 'Hello world'},
-    {name: 'Tom', message: 'Hello hego'}
+    {name: 'JaimeGoB', message: 'Hello world'},
+    {name: 'JaimeGoC', message: 'Hello hego'}
 ]
 
 
